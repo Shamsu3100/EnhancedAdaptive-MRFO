@@ -86,7 +86,7 @@ If you use this code, please cite:
 ```bibtex
 @article{adamu2025eamrfo,
   title={EA-MRFO: An Enhanced Adaptive Manta Ray Foraging Optimizer for Complex Optimization Challenge},
-  author={Adamu, S. and others},
+  author={Adamu, S. et al.},
   year={2025},
   journal={Under Review}
 }
