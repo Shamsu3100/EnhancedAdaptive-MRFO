@@ -23,6 +23,24 @@ This repository contains a comprehensive implementation of EA-MRFO, a state-of-t
 - 📈 **CEC2017 Benchmark Integration**: Full implementation and evaluation across 30 standardized test functions.
 
 ---
+## 📦 File Structure
+EA-MRFO-Optimizer/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+│
+├── src/
+│   ├── enhanced_mrfo.py          # Main EA-MRFO code (rename from your script)
+│   ├── cec17_functions.py        # Benchmark functions (or note as dependency)
+│   └── utils/                    # (optional) for plotting, evaluation, etc.
+│
+├── data/
+│   └── results/                  # Output: Excel files, plots, etc.
+│
+└── experiments/
+    └── main_run.py              # Script to run benchmark (calls enhanced_mrfo)
 
 ## 📦 Dependencies
 
