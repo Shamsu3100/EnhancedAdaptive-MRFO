@@ -69,7 +69,11 @@ cd experiments
 python main_run.py
 ```
 
-This script runs all 30 CEC2017 functions in parallel and logs results to `/data/results/`.
+
+This script will:
+Execute all 30 CEC2017 benchmark functions
+Save results (Excel + plots) into data/results/
+Output performance metrics and convergence plots
 
 ---
 
